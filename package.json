@@ -1,0 +1,15 @@
+{
+  "name": "is-the-mountain-out",
+  "version": "1.0.0",
+  "description": "An example Alexa Skill that pulls the latest tweet from a Twitter user and responds with that - in this case @IsMtRainierOut",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "TylerLeonhardt",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-message-builder": "^1.1.0",
+    "alexa-skill-kit": "^1.0.0",
+    "twit": "^2.2.5"
+  }
+}
