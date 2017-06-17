@@ -42,7 +42,7 @@ Save that and deploy it.
 
 If you configured your Alexa Skill correctly, you should be able to ask your Echo: 
 
->You: Alexa, ask ~your skill name~ if the mountain is out.
+>You: Alexa, ask [your skill name] if the mountain is out.
 
 >Alexa: Yes!
 
